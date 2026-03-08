@@ -31,9 +31,9 @@ Choose one of the following business problems (**or define your own**):
 
 ### 5. Test and Present  
 - Run the application and test API integration using Swagger.  
-- Prepare a short presentation explaining ( **or document the following)**:  
+- Prepare a short video demonstration explaining:  
   - Why the API was chosen.  
   - How it solves the business problem.  
   - Challenges faced during implementation.
  
-#### Once completed, claim the following GitHub submission Link: https://classroom.github.com/a/qU3gJdGc and submit your completed project on ARC.
+#### Once completed, create a private repo for yourself and keep this project for your portfolio.
